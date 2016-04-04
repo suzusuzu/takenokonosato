@@ -7,7 +7,6 @@
 #define TAKENOKO7 " ヽ_＿＿／"
 
 #define TITLE_COLS_COUNT 91
-#define TITLE_LINES_COUNT 6
 #define TITLE1 "  _______       _  ________ _   _  ____  _  ______  _   _  ____   _____      _______ ____  "
 #define TITLE2 " |__   __|/\\   | |/ /  ____| \\ | |/ __ \\| |/ / __ \\| \\ | |/ __ \\ / ____|  /\\|__   __/ __ \\ "
 #define TITLE3 "    | |  /  \\  | ' /| |__  |  \\| | |  | | ' / |  | |  \\| | |  | | (___   /  \\  | | | |  | |"
